@@ -1,6 +1,6 @@
 # Solidity Smart Contract Project
 
-This project demonstrates the usage of Solidity smart contracts with Hardhat. It includes contracts that implement `require()`, `assert()`, and `revert()` statements to ensure numbers are multiples of 3. The project also includes deployment and interaction scripts.
+This project demonstrates the usage of Solidity smart contracts with Hardhat. It includes contracts that implement `require()`, `assert()`, and `revert()` statements to ensure numbers are multiples of 3. The project also includes a deployment script.
 
 ## Prerequisites
 
